@@ -1,0 +1,3 @@
+SELECT pn, un, serie, matricula, disciplina, nota FROM alunos;
+
+SELECT pn, un FROM professores
